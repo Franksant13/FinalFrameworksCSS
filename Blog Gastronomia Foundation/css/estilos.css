@@ -1,0 +1,40 @@
+body{
+    background: url("../img/fondo.jpg");
+    background-size: cover;
+    background-repeat: repeat;
+}
+a{
+    color: #000;
+}
+img{
+    border-radius: 6px;
+}
+#latMenu{
+    background:#009a72;
+    height: 800px;
+}
+.tituloSide{
+    color:#efd8dc;
+}
+.tituloContenido{
+    color:#009a72;
+}
+.comentBox {
+    border: 1px solid black;
+    margin: 5px;
+    border-radius: 6px;
+}
+#contenido{
+    background:#efd8dc;
+}
+#mainContainer{
+    background: hsla(162, 100%, 50%, 0.35);
+}
+#favoritosContainer img{
+    width: 90%;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.comentContent{
+    display: inline-block
+}

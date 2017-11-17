@@ -1,0 +1,40 @@
+body{
+    background: url("../images/fondo.jpg");
+    background-size: cover;
+    background-repeat:no-repeat;
+}
+
+nav img{
+    width: 100px;
+}
+nav span{
+    font-size: 20px;
+}
+section{
+    margin-top: 50px;
+}
+.imgRedes{
+    width: 50px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.imgContenido{
+    width: 95%;
+}
+blockquote{
+    border-left: 5px solid #64b5f6; /* Just change the color value and that's it*/
+}
+.divBlog{
+    padding: 5px;
+    border-radius: 6px;
+}
+.divBlog img{
+    width: 95%;
+}
+.imgUser{
+    width: 75%;
+}
+.perfilBlog{
+    padding: 5px;
+    border-radius: 6px;
+}
